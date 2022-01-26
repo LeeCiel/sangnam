@@ -1,26 +1,9 @@
 body{
     font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
 }
-li{
-    list-style: none;
-    float: left;
-    }
-    .header{
-        background-color: #f0f8ff;
-        height: 90px;
-    }
-    .header-logo{
-        float: left;
-        font-size: 20px;
-    }
-    .head-list li{
-        float: left;
-        padding: 40px 30px;
-    }
-    .main{
-        padding: 30px 80px;
-    }
-    .copy-container h1{
-        font-size: 90px;
-    }
-    
+h1{
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 200px;
+}
