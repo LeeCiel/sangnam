@@ -1,9 +1,18 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-color: aliceblue;
+    padding: 10px 80px 10px 80px;
+li{
+    list-style: none;
+    float: :left
+    }
 }
 h1{
     font-size: 90px;
     font-family: 'Times New Roman', Times, serif;
     padding: 10px 200px;
+    text-align: center;
+}
+.img{
+    text-align: center;
 }
