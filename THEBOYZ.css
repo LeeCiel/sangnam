@@ -10,7 +10,17 @@ li{
         height: 90px;
     }
     .header-logo{
-        float: 
-        font-size: 50px;
+        float: left;
+        font-size: 20px;
+    }
+    .head-list li{
+        float: left;
+        padding: 40px 30px;
+    }
+    .main{
+        padding: 30px 80px;
+    }
+    .copy-container h1{
+        font-size: 90px;
     }
     
