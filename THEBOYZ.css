@@ -1,11 +1,7 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-color: aliceblue;
-    padding: 10px 80px 10px 80px;
-li{
-    list-style: none;
-    float: :left
-    }
+    padding: 10px 190px 10px 190px;
 }
 h1{
     font-size: 90px;
@@ -13,22 +9,19 @@ h1{
     padding: 10px 200px;
     text-align: center;
 }
-.img{
-    text-align: center;
-}
-.flex-container {
-    display: flex;
-}
 
-.image-wrap{
-    margin: 10px 5px;
+.contents img {
+    margin-top: 20px;
+    height: 400px;
+    padding: 15px ;
 }
-
-.image-wrap img {
-    width: 100%;
-    height: 300px;
+.contents-item img{
+    margin-top: 10px;
+    float: left;
+    margin-right: 40px;
 }
-
-.flex-item {
-    flex-basis: 100%;
+.contents-item p {
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: left;
 }
