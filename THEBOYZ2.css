@@ -2,4 +2,14 @@ body{
     font-family: 'Times New Roman', Times, serif;
     background-color: aliceblue;
     font-size: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.img{
+height: 500px;
+width: auto;
+}
+
+.body P{
+    float: right;
 }
