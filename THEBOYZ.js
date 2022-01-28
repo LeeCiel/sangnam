@@ -1,3 +1,2 @@
-function change1(){
-    document.getElementById('txt1').innerHTML='SANGYEON 1996.11.05 メインボーカル';
-}
+function imgchange1() {document.getElementById('change1').src='./image/SANGYEON.jpg';}
+function bthrees(){document.getElementById('change1').src='./image/1.jpg';}
