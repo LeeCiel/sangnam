@@ -10,13 +10,12 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-
-.contents-item {
+.contents-item{
     float:left;
+    margin-right: 40px;
+    height: 200px;
+    width: 100px;
 }
-.contents p {
-        font-size: 25px;
-        padding: 20px;
-        text-align: left;
-        margin-right: 20px;
-    }
+.contents-item p{
+    font-size: 24px;
+}
