@@ -3,13 +3,9 @@ body{
     background-color: aliceblue;
     font-size: 30px;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
-.img{
-height: 500px;
-width: auto;
-}
-
 .body P{
     float: right;
 }
