@@ -1,12 +1,6 @@
-body{
-    font-family: 'Times New Roman', Times, serif;
-    background-color: aliceblue;
-    font-size: 30px;
-    margin-left: 250px;
-    margin-right: 115px;
+img{
+    width: auto;
+    height: 500px;
+    position: relative;
+    left: 600px;
 }
-img{width: auto; height: 500px;
-    margin-right: 300px;
-    float: right;
-}
-
