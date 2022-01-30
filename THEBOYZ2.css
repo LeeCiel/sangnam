@@ -2,5 +2,14 @@ img{
     width: auto;
     height: 500px;
     position: relative;
-    left: 600px;
+    left: 450px;
+    top: 190px;
 }
+body{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 300px;
+    background-color: aliceblue;
+}
+
